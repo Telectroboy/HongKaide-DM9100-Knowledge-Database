@@ -15,6 +15,12 @@ DMR chip = HR_C6000
 Analog Chip = AT1846S
 FM broadcast and AM aviation RX Chip = BK1088 
 GPS Chip is ATGM336M with external antenna
+RD08MUS2 1st of Power Amplifier https://www.mitsubishielectric.com/semiconductors/hf/products/datasheet/rd08mus2.pdf
+RD35HUP2 Power Amplifier last stage https://www.mitsubishielectric.com/semiconductors/hf/products/datasheet/rd35hup2.pdf
+
+
+
+
 
 Not compatible with OpenGD77
 
