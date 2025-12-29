@@ -14,7 +14,7 @@ Main MCU => STM32F405
 DMR chip = HR_C6000
 Analog Chip = AT1846S
 FM broadcast and AM aviation RX Chip = BK1088 
-
+GPS Chip is ATGM336M with external antenna
 
 Not compatible with OpenGD77
 
