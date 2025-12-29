@@ -1,5 +1,8 @@
 # HongKaide DM9100 – Calibration & Parameter Reference
 ## STM32F405 + AT1846S + HR_C6000 + ATGM336H
+
+NOT OFFICIAL WORK IN PROGRESS !!!
+
 Reference values: November 2024
 
 ---
